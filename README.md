@@ -1,4 +1,4 @@
-# This repository contains the source code for a News Search App, a web application that allows users to search for news articles based on different categories such as Sports, Science, and Crimes. The app fetches real-time news data using the News API and presents it in an organized and visually appealing manner.
+**This repository contains the source code for a News Search App, a web application that allows users to search for news articles based on different categories such as Sports, Science, and Crimes. The app fetches real-time news data using the News API and presents it in an organized and visually appealing manner.**
 
 **Navigation:** Users can navigate through different news categories (Sports, Science, Crimes) using the navigation bar.
 
