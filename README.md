@@ -20,3 +20,6 @@
 
 <img width="960" alt="image" src="https://github.com/Hareesh061/News_Search_App/assets/90563881/3b19ef66-b193-4c3a-af9a-f2490b3a03a0">
 
+Credit: Anuj Bhaiya
+
+**Keep Learning**
